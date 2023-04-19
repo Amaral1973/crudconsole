@@ -1,0 +1,15 @@
+C:\Programas_Console\ConsoleAppCRUD\bin\Debug\net6.0\ConsoleAppCRUD.exe
+C:\Programas_Console\ConsoleAppCRUD\bin\Debug\net6.0\ConsoleAppCRUD.deps.json
+C:\Programas_Console\ConsoleAppCRUD\bin\Debug\net6.0\ConsoleAppCRUD.runtimeconfig.json
+C:\Programas_Console\ConsoleAppCRUD\bin\Debug\net6.0\ConsoleAppCRUD.dll
+C:\Programas_Console\ConsoleAppCRUD\bin\Debug\net6.0\ConsoleAppCRUD.pdb
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.csproj.AssemblyReference.cache
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.AssemblyInfoInputs.cache
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.AssemblyInfo.cs
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.csproj.CoreCompileInputs.cache
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.dll
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\refint\ConsoleAppCRUD.dll
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.pdb
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ConsoleAppCRUD.genruntimeconfig.cache
+C:\Programas_Console\ConsoleAppCRUD\obj\Debug\net6.0\ref\ConsoleAppCRUD.dll
